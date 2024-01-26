@@ -8,7 +8,7 @@ This simple Lua script provides functionality to display shifted ticks informati
 
 ## Usage
 
-1. **Add to LMAOBOX**: Simple go to your localappdata folder, drag it in and boom! you're now able to use this script.
+1. **Add to LMAOBOX**: Simply go to your localappdata folder, drag it in, and you're now able to use this script.
 
 2. **Configure Text Position**: Adjust the position of the displayed text on the screen by modifying the variables `text_x` and `text_y`.
 
